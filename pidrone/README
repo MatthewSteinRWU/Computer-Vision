@@ -1,0 +1,3 @@
+Modifications to the pidrone_pkg made by RWU for single map onboard localization.  These were sucessful in displaying
+to students the features on their map that could be matched.  This was unsucessful for real-time flight control with 
+an update rate of only about 2Hz.
